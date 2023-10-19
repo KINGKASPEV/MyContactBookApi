@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.DTO.deps.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.DTO.runtimeconfig.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.DTO.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.DTO.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.Model.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\bin\Debug\net6.0\ContactBookAPI.Model.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.csproj.CopyComplete
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\refint\ContactBookAPI.DTO.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ContactBookAPI.DTO.genruntimeconfig.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.DTO\obj\Debug\net6.0\ref\ContactBookAPI.DTO.dll

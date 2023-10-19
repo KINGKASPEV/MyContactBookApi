@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Data.deps.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Data.runtimeconfig.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Data.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Data.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Model.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\bin\Debug\net6.0\ContactBookAPI.Model.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.csproj.CopyComplete
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\refint\ContactBookAPI.Data.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ContactBookAPI.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Data\obj\Debug\net6.0\ref\ContactBookAPI.Data.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net6.0\ContactBookAPI.Model.deps.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net6.0\ContactBookAPI.Model.runtimeconfig.json
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net6.0\ContactBookAPI.Model.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net6.0\ContactBookAPI.Model.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\refint\ContactBookAPI.Model.dll
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.pdb
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ContactBookAPI.Model.genruntimeconfig.cache
+C:\Users\user\Desktop\New ContactBookAPI\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net6.0\ref\ContactBookAPI.Model.dll
